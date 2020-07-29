@@ -23,7 +23,15 @@ I enjoy programming, biking and playing in the stonk market.
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 
+<br /><br /><br /><br /><br />
+
+<center>
+
 ![Nick's github stats](https://github-readme-stats.vercel.app/api?username=n-f9&hide=["issues","prs","contribs"]&show_icons=false&hide_border=true)
+
+</center>
+
+
 <!--
 **N-F9/N-F9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
