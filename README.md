@@ -25,11 +25,11 @@ I enjoy programming, biking and playing in the stonk market.
 
 <br /><br /><br /><br /><br />
 
-<center>
+<div align="center">
 
 ![Nick's github stats](https://github-readme-stats.vercel.app/api?username=n-f9&hide=["issues","prs","contribs"]&show_icons=false&hide_border=true)
 
-</center>
+</div>
 
 
 <!--
