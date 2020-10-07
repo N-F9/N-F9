@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nick Ferguson!
 #### Developer, Student, Entrepreneur
-I enjoy programming, biking and playing in the stonk market.
+I enjoy programming, biking and playing in the stock market.
 
 #### Languages and Tools
 
