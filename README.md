@@ -1,10 +1,24 @@
-### Hi there 👋, I'm Nick Ferguson!
-#### Developer, Student, Entrepreneur
+### Hello, I'm Nick!
+#### Developer, Student
 I enjoy programming, biking and playing in the stock market.
 
-#### Languages and Tools
+#### Languages, Libraries, and Frameworks I use
 
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+![](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat-square)
+![](https://img.shields.io/badge/React-blue.svg?style=flat-square)
+![](https://img.shields.io/badge/NextJS-blue.svg?style=flat-square)
+![](https://img.shields.io/badge/NodeJS-success.svg?style=flat-square)
+![](https://img.shields.io/badge/DiscordJS-blue.svg?style=flat-square)
+![](https://img.shields.io/badge/Express-lightgrey.svg?style=flat-square)
+![](https://img.shields.io/badge/MongoDB-green.svg?style=flat-square)
+
+#### Tools I use
+
+![](https://img.shields.io/badge/Linux-lightgrey.svg?style=flat-square)
+![](https://img.shields.io/badge/npm-red.svg?style=flat-square)
+![](https://img.shields.io/badge/git-orange.svg?style=flat-square)
+
+<!--<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -22,7 +36,7 @@ I enjoy programming, biking and playing in the stock market.
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
-<!--<img align="left" width="26px" src="https://tailwindcss.com/_next/static/media/twitter-square.18b32c43e6fa4c8ee7db66330112a331.png" />-->
+<img align="left" width="26px" src="https://tailwindcss.com/_next/static/media/twitter-square.18b32c43e6fa4c8ee7db66330112a331.png" />
 
 <br /><br /><br /><br /><br />
 
@@ -30,7 +44,7 @@ I enjoy programming, biking and playing in the stock market.
 
 ![Nick's github stats](https://github-readme-stats.vercel.app/api?username=n-f9&hide=["issues","prs","contribs"]&show_icons=false&hide_border=true)
 
-</div>
+</div>-->
 
 
 <!--
