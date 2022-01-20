@@ -11,12 +11,15 @@ I enjoy programming, biking and playing in the stock market.
 ![](https://img.shields.io/badge/DiscordJS-blue.svg?style=flat-square)
 ![](https://img.shields.io/badge/Express-lightgrey.svg?style=flat-square)
 ![](https://img.shields.io/badge/MongoDB-green.svg?style=flat-square)
+![](https://img.shields.io/badge/Java-orange.svg?style=flat-square)
+![](https://img.shields.io/badge/SQL-lightgrey.svg?style=flat-square)
 
 #### Tools I use
 
 ![](https://img.shields.io/badge/Linux-lightgrey.svg?style=flat-square)
-![](https://img.shields.io/badge/npm-red.svg?style=flat-square)
-![](https://img.shields.io/badge/git-orange.svg?style=flat-square)
+![](https://img.shields.io/badge/NPM-red.svg?style=flat-square)
+![](https://img.shields.io/badge/Git-orange.svg?style=flat-square)
+![](https://img.shields.io/badge/Fedora-blue.svg?style=flat-square)
 
 <!--<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
