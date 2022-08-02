@@ -15,6 +15,7 @@ I enjoy programming, biking, training my dog, and playing in the stock market. I
 ![](https://img.shields.io/badge/SQL-lightgrey.svg?style=flat-square)
 ![](https://img.shields.io/badge/Bash-gray.svg?style=flat-square)
 ![](https://img.shields.io/badge/Quack.js-yellow.svg?style=flat-square)
+![](https://img.shields.io/badge/Tailwind.css-teal.svg?style=flat-square)
 
 #### Tools I use
 
