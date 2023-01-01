@@ -1,6 +1,6 @@
 ### Hello, I'm Nick!
 #### Developer, Student
-I enjoy programming, biking, training my dog, and playing in the stock market. I also hold interests in math and business.
+I enjoy programming, biking, training my dog, and playing in the stock market. I also hold interests in math.
 
 #### Languages, Libraries, and Frameworks I use
 
