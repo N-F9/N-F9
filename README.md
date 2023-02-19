@@ -29,4 +29,4 @@ I enjoy programming, biking, training my dog, and playing in the stock market. I
 ![](https://img.shields.io/badge/Git-orange.svg?style=flat-square)
 ![](https://img.shields.io/badge/Fedora-blue.svg?style=flat-square)
 ![](https://img.shields.io/badge/Docker-blue.svg?style=flat-square)
- -->
+-->
