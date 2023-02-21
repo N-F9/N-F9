@@ -1,6 +1,6 @@
 <div style="width: 100%;">
 	<a href="https://nickf.me/" target="_blank">
-		<img src="./welcome.png" style="width: 100%;">
+		<img src="./welcome.svg" style="width: 100%;">
 	</a>
 </div>
 
