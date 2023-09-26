@@ -1,11 +1,16 @@
-<div style="width: 100%;">
+<!-- <div style="width: 100%;">
 	<a href="https://nickf.me/" target="_blank">
 		<img src="./welcome.svg" style="width: 100%;">
 	</a>
 </div>
+-->
 
-<!-- 
-### Hello, I'm Nick!
+ 
+### Hello, I'm Nick Ferguson!
+
+I enjoy programming, biking, training my dog, and playing in the stock market. I'm currently attending the University of Pittsburgh, B.S. Computer Science.
+
+<!--
 #### Developer, Student
 I enjoy programming, biking, training my dog, and playing in the stock market. I also hold interests in math.
 
