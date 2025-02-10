@@ -8,7 +8,7 @@
  
 ### Hello, I'm Nick Ferguson!
 
-I enjoy programming, biking, training my dog, and playing in the stock market. I'm currently attending the University of Pittsburgh, B.S. Computer Science with a minor in Computer Engineering.
+I’m a student at the University of Pittsburgh who enjoys computer science, hockey, and training my dog for agility.
 
 <!--
 #### Developer, Student
