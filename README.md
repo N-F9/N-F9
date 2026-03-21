@@ -6,9 +6,9 @@
 -->
 
  
-### Hello, I'm Nick Ferguson!
+### Hello, I'm Nick!
 
-I’m a student at the University of Pittsburgh who enjoys computer science, hockey, and training my dog for agility.
+I'm a Software Engineer at **Aurora** who enjoys computer science, systems, hockey, and training my dog for agility competitions.
 
 <!--
 #### Developer, Student
