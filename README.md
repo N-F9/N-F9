@@ -1,9 +1,4 @@
-<!-- <div style="width: 100%;">
-	<a href="https://nickf.me/" target="_blank">
-		<img src="./welcome.svg" style="width: 100%;">
-	</a>
-</div>
--->
+<a href="https://ndferguson.dev"><img src="./banner.svg" alt="A field of monospace characters drifting, warming to yellow and orange where a glow passes" width="100%"></a>
 
  
 ### Hello, I'm Nick!
