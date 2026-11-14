@@ -1,10 +1,5 @@
 <a href="https://ndferguson.dev"><img src="./banner.svg" alt="A field of monospace characters, slowly drifting" width="100%"></a>
 
- 
-### Hello, I'm Nick!
-
-I'm a Software Engineer at **Aurora** who enjoys computer science, systems, hockey, and training my dog for agility competitions.
-
 <!--
 #### Developer, Student
 I enjoy programming, biking, training my dog, and playing in the stock market. I also hold interests in math.
