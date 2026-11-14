@@ -1,4 +1,4 @@
-<a href="https://ndferguson.dev"><img src="./banner.svg" alt="A field of monospace characters drifting, warming to yellow and orange where a glow passes" width="100%"></a>
+<a href="https://ndferguson.dev"><img src="./banner.svg" alt="A field of monospace characters, slowly drifting" width="100%"></a>
 
  
 ### Hello, I'm Nick!
