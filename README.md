@@ -1,14 +1,4 @@
-<!-- <div style="width: 100%;">
-	<a href="https://nickf.me/" target="_blank">
-		<img src="./welcome.svg" style="width: 100%;">
-	</a>
-</div>
--->
-
- 
-### Hello, I'm Nick!
-
-I'm a Software Engineer at **Aurora** who enjoys computer science, systems, hockey, and training my dog for agility competitions.
+<a href="https://ndferguson.dev"><img src="./banner.svg" alt="A field of monospace characters, slowly drifting" width="100%"></a>
 
 <!--
 #### Developer, Student
